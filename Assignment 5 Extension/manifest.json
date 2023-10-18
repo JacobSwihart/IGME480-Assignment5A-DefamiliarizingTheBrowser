@@ -1,7 +1,7 @@
 {
-    "name": "Sample Extension",
+    "name": "IGME 480 Assignment 5A. Extension: Link Obscurer",
     "version": "1.0.0",
-    "description": "Sample Extension",
+    "description": "Replaces the text of links on all webpages with ???? and obscures their URLs so they cannot be previewed",
     "manifest_version": 3,
     "author": "Jacob Swihart",
     "content_scripts": [
