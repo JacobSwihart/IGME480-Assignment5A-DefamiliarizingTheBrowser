@@ -1,0 +1,13 @@
+{
+    "name": "Sample Extension",
+    "version": "1.0.0",
+    "description": "Sample Extension",
+    "manifest_version": 3,
+    "author": "Jacob Swihart",
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["content.js"]
+        }
+    ]
+}
